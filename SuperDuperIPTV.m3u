@@ -152,6 +152,8 @@ http://dpny1.1234.uno:6061/ptvsports/index.m3u8
 http://cdn.ihub.live:8082/j-starsports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="StarS1 HindiHD-Rs19" tvg-logo="" group-title="Sports",StarS1 HD-Rs19
 http://103.86.134.34:9981/stream/channelid/174631324.ts?ticket=94609391ED99432E610AB8ABD2C8FA48F307D336&profile=pass
+#EXTINF:-1 tvg-id="ext" tvg-name="StarS1 HindiHD-Rs19" tvg-logo="" group-title="Sports",Star Sports 1 HD Tamil
+http://20.2.72.221/asiacup/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="StarS1 HindiHD-Rs19" tvg-logo="" group-title="Sports",StarS1 HindiHD-Rs19
 http://103.61.73.220:8000/play/a041
 #EXTINF:-1 tvg-id="ext" tvg-name="StarSports2 HD-Rs19" tvg-logo="" group-title="Sports",StarSports2 HD-Rs19
