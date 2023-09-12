@@ -130,6 +130,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="JalshaMoviesHD-Rs19" tvg-logo="" group-title="Indian Bangla",JalshaMoviesHD-Rs19
 http://103.61.73.220:8000/play/a092
+#EXTINF:-1 tvg-id="ext" tvg-name="STAR JALSHA HD-Rs19" tvg-logo="" group-title="Indian Bangla",STAR JALSHA SD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR JALSHA HD-Rs19" tvg-logo="" group-title="Indian Bangla",STAR JALSHA HD-Rs19
 http://103.61.73.220:8000/play/a070
 #EXTINF:-1 tvg-id="ext" tvg-name="Sony Wah- 50p" tvg-logo="" group-title="Indian Bangla",Sony Wah- 50p
